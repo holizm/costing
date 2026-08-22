@@ -1,0 +1,54 @@
+costComponentType options
+    material
+    labor
+    overhead
+    freight
+    tax
+    service
+    other
+costAllocationMethod options
+    quantity
+    weight
+    value
+    equal
+costSheet
+    title
+    item
+    quantity realNumber
+    directCost realNumber
+    overheadCost realNumber optional
+    totalCost realNumber
+    unitCost realNumber
+    currency
+    effectiveDate
+    current yesNo optional
+costComponent
+    costSheet
+    title
+    costComponentType
+    sourceItem optional
+    quantity realNumber
+    unitCost realNumber
+    totalCost realNumber
+    description optional
+landedCost
+    title
+    purchaseOrder optional
+    shipment optional
+    totalAmount realNumber
+    currency
+    costAllocationMethod
+    effectiveDate
+landedCostAllocation
+    landedCost
+    item
+    basisValue realNumber
+    allocatedAmount realNumber
+costSnapshot
+    item
+    snapshotDate
+    quantity realNumber
+    totalCost realNumber
+    unitCost realNumber
+    currency
+    unique item snapshotDate
