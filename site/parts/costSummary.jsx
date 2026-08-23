@@ -1,4 +1,4 @@
-export default ({ costSheet }) => <dl class='costSummary'>
+export default ({ costSheet }) => <dl class='summary'>
     <dt class='title'>{costSheet.title}</dt>
     <dd class='totalCost'>{costSheet.totalCost}</dd>
     <dd class='unitCost'>{costSheet.unitCost}</dd>
