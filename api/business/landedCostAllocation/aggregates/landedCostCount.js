@@ -1,0 +1,4 @@
+[
+    { $match: { landedCost } },
+    { $count: 'count' },
+]

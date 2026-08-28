@@ -1,0 +1,4 @@
+[
+    { $match: { costAllocationMethod } },
+    { $count: 'count' },
+]

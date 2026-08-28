@@ -1,0 +1,4 @@
+[
+    { $match: { costComponentType } },
+    { $count: 'count' },
+]

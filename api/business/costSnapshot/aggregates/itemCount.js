@@ -1,0 +1,4 @@
+[
+    { $match: { item } },
+    { $count: 'count' },
+]
