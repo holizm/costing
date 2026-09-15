@@ -1,0 +1,26 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "componentType": "Component type",
+        "costComponent": "Cost component",
+        "costComponents": "Cost components",
+        "costSheet": "Cost sheet",
+        "costSheets": "Cost sheets",
+        "costing": "Costing",
+        "currency": "Currency",
+        "current": "Current",
+        "description": "Description",
+        "directCost": "Direct cost",
+        "effectiveDate": "Effective date",
+        "item": "Item",
+        "overheadCost": "Overhead cost",
+        "quantity": "Quantity",
+        "totalCost": "Total cost",
+        "unitCost": "Unit cost"
+    },
+    "site": {
+        "totalCost": "Total cost",
+        "unitCost": "Unit cost"
+    }
+}

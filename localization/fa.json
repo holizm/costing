@@ -1,0 +1,26 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "componentType": "نوع مؤلفه",
+        "costComponent": "مؤلفه هزینه",
+        "costComponents": "مؤلفه‌های هزینه",
+        "costSheet": "برگه بهای تمام‌شده",
+        "costSheets": "برگه‌های بهای تمام‌شده",
+        "costing": "محاسبه هزینه",
+        "currency": "ارز",
+        "current": "جاری",
+        "description": "توضیحات",
+        "directCost": "هزینه مستقیم",
+        "effectiveDate": "تاریخ اجرا",
+        "item": "آیتم",
+        "overheadCost": "هزینه سربار",
+        "quantity": "تعداد",
+        "totalCost": "هزینه کل",
+        "unitCost": "هزینه واحد"
+    },
+    "site": {
+        "totalCost": "هزینه کل",
+        "unitCost": "هزینه واحد"
+    }
+}
