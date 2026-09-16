@@ -1,7 +1,7 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "totalCost": "هزینه کل",
+        "unitCost": "هزینه واحد",
         "componentType": "نوع مؤلفه",
         "costComponent": "مؤلفه هزینه",
         "costComponents": "مؤلفه‌های هزینه",
@@ -15,12 +15,6 @@
         "effectiveDate": "تاریخ اجرا",
         "item": "آیتم",
         "overheadCost": "هزینه سربار",
-        "quantity": "تعداد",
-        "totalCost": "هزینه کل",
-        "unitCost": "هزینه واحد"
-    },
-    "site": {
-        "totalCost": "هزینه کل",
-        "unitCost": "هزینه واحد"
+        "quantity": "تعداد"
     }
 }

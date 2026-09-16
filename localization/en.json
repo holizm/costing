@@ -1,7 +1,7 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "totalCost": "Total cost",
+        "unitCost": "Unit cost",
         "componentType": "Component type",
         "costComponent": "Cost component",
         "costComponents": "Cost components",
@@ -15,12 +15,6 @@
         "effectiveDate": "Effective date",
         "item": "Item",
         "overheadCost": "Overhead cost",
-        "quantity": "Quantity",
-        "totalCost": "Total cost",
-        "unitCost": "Unit cost"
-    },
-    "site": {
-        "totalCost": "Total cost",
-        "unitCost": "Unit cost"
+        "quantity": "Quantity"
     }
 }
