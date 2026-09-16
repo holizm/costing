@@ -8,13 +8,8 @@
         "costSheet": "برگه بهای تمام‌شده",
         "costSheets": "برگه‌های بهای تمام‌شده",
         "costing": "محاسبه هزینه",
-        "currency": "ارز",
-        "current": "جاری",
-        "description": "توضیحات",
         "directCost": "هزینه مستقیم",
         "effectiveDate": "تاریخ اجرا",
-        "item": "آیتم",
-        "overheadCost": "هزینه سربار",
-        "quantity": "تعداد"
+        "overheadCost": "هزینه سربار"
     }
 }

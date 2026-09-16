@@ -8,13 +8,8 @@
         "costSheet": "Cost sheet",
         "costSheets": "Cost sheets",
         "costing": "Costing",
-        "currency": "Currency",
-        "current": "Current",
-        "description": "Description",
         "directCost": "Direct cost",
         "effectiveDate": "Effective date",
-        "item": "Item",
-        "overheadCost": "Overhead cost",
-        "quantity": "Quantity"
+        "overheadCost": "Overhead cost"
     }
 }
