@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "Jumlah kos",
+        "unitCost": "Kos seunit",
+        "componentType": "Jenis komponen kos",
+        "costComponent": "Komponen kos",
+        "costComponents": "Komponen kos",
+        "costSheet": "Helaian kos",
+        "costSheets": "Helaian kos",
+        "costing": "Pengiraan kos",
+        "directCost": "Kos langsung",
+        "effectiveDate": "Tarikh berkuat kuasa",
+        "overheadCost": "Kos overhed"
+    }
+}

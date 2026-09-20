@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "மொத்தச் செலவு",
+        "unitCost": "அலகுச் செலவு",
+        "componentType": "செலவுக் கூறின் வகை",
+        "costComponent": "செலவுக் கூறு",
+        "costComponents": "செலவுக் கூறுகள்",
+        "costSheet": "செலவுக் கணக்குத் தாள்",
+        "costSheets": "செலவுக் கணக்குத் தாள்கள்",
+        "costing": "செலவுக் கணக்கீடு",
+        "directCost": "நேரடிச் செலவு",
+        "effectiveDate": "நடைமுறைக்கு வரும் தேதி",
+        "overheadCost": "மறைமுகச் செலவு"
+    }
+}

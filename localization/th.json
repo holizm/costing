@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "ต้นทุนรวม",
+        "unitCost": "ต้นทุนต่อหน่วย",
+        "componentType": "ประเภทองค์ประกอบต้นทุน",
+        "costComponent": "องค์ประกอบต้นทุน",
+        "costComponents": "องค์ประกอบต้นทุน",
+        "costSheet": "ใบคำนวณต้นทุน",
+        "costSheets": "ใบคำนวณต้นทุน",
+        "costing": "การคำนวณต้นทุน",
+        "directCost": "ต้นทุนทางตรง",
+        "effectiveDate": "วันที่มีผลบังคับใช้",
+        "overheadCost": "ต้นทุนค่าโสหุ้ย"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "മൊത്തം ചെലവ്",
+        "unitCost": "യൂണിറ്റ് ചെലവ്",
+        "componentType": "ചെലവ് ഘടകത്തിന്റെ തരം",
+        "costComponent": "ചെലവ് ഘടകം",
+        "costComponents": "ചെലവ് ഘടകങ്ങൾ",
+        "costSheet": "ചെലവ് പട്ടിക",
+        "costSheets": "ചെലവ് പട്ടികകൾ",
+        "costing": "ചെലവ് നിർണ്ണയം",
+        "directCost": "നേരിട്ടുള്ള ചെലവ്",
+        "effectiveDate": "പ്രാബല്യ തീയതി",
+        "overheadCost": "പരോക്ഷ ചെലവ്"
+    }
+}

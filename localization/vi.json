@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "Tổng chi phí",
+        "unitCost": "Chi phí đơn vị",
+        "componentType": "Loại thành phần chi phí",
+        "costComponent": "Thành phần chi phí",
+        "costComponents": "Các thành phần chi phí",
+        "costSheet": "Bảng tính chi phí",
+        "costSheets": "Các bảng tính chi phí",
+        "costing": "Tính giá thành",
+        "directCost": "Chi phí trực tiếp",
+        "effectiveDate": "Ngày có hiệu lực",
+        "overheadCost": "Chi phí chung"
+    }
+}

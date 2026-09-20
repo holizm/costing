@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "Totale koste",
+        "unitCost": "Eenheidskoste",
+        "componentType": "Komponenttipe",
+        "costComponent": "Kostekomponent",
+        "costComponents": "Kostekomponente",
+        "costSheet": "Kostestaat",
+        "costSheets": "Kostestate",
+        "costing": "Kosteberekening",
+        "directCost": "Direkte koste",
+        "effectiveDate": "Ingangsdatum",
+        "overheadCost": "Bokoste"
+    }
+}

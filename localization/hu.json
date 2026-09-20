@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "Teljes költség",
+        "unitCost": "Egységköltség",
+        "componentType": "Költségösszetevő típusa",
+        "costComponent": "Költségösszetevő",
+        "costComponents": "Költségösszetevők",
+        "costSheet": "Költségkalkulációs lap",
+        "costSheets": "Költségkalkulációs lapok",
+        "costing": "Költségszámítás",
+        "directCost": "Közvetlen költség",
+        "effectiveDate": "Hatálybalépés dátuma",
+        "overheadCost": "Általános költség"
+    }
+}

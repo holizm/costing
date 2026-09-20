@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "Kabuuang gastos",
+        "unitCost": "Gastos bawat yunit",
+        "componentType": "Uri ng bahagi ng gastos",
+        "costComponent": "Bahagi ng gastos",
+        "costComponents": "Mga bahagi ng gastos",
+        "costSheet": "Talaan ng gastos",
+        "costSheets": "Mga talaan ng gastos",
+        "costing": "Pagkalkula ng gastos",
+        "directCost": "Direktang gastos",
+        "effectiveDate": "Petsa ng bisa",
+        "overheadCost": "Di-tuwirang gastos"
+    }
+}

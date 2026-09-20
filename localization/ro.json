@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "Cost total",
+        "unitCost": "Cost unitar",
+        "componentType": "Tip de componentă de cost",
+        "costComponent": "Componentă de cost",
+        "costComponents": "Componente de cost",
+        "costSheet": "Fișă de cost",
+        "costSheets": "Fișe de cost",
+        "costing": "Calculul costurilor",
+        "directCost": "Cost direct",
+        "effectiveDate": "Data intrării în vigoare",
+        "overheadCost": "Cost indirect"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "总成本",
+        "unitCost": "单位成本",
+        "componentType": "成本构成类型",
+        "costComponent": "成本构成项",
+        "costComponents": "成本构成项",
+        "costSheet": "成本核算表",
+        "costSheets": "成本核算表",
+        "costing": "成本核算",
+        "directCost": "直接成本",
+        "effectiveDate": "生效日期",
+        "overheadCost": "间接成本"
+    }
+}

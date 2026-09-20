@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "कुल लागत",
+        "unitCost": "इकाई लागत",
+        "componentType": "लागत घटक का प्रकार",
+        "costComponent": "लागत घटक",
+        "costComponents": "लागत घटक",
+        "costSheet": "लागत पत्रक",
+        "costSheets": "लागत पत्रक",
+        "costing": "लागत निर्धारण",
+        "directCost": "प्रत्यक्ष लागत",
+        "effectiveDate": "प्रभावी तिथि",
+        "overheadCost": "अप्रत्यक्ष लागत"
+    }
+}

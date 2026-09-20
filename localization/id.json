@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "Total biaya",
+        "unitCost": "Biaya per unit",
+        "componentType": "Jenis komponen biaya",
+        "costComponent": "Komponen biaya",
+        "costComponents": "Komponen biaya",
+        "costSheet": "Lembar biaya",
+        "costSheets": "Lembar biaya",
+        "costing": "Perhitungan biaya",
+        "directCost": "Biaya langsung",
+        "effectiveDate": "Tanggal berlaku",
+        "overheadCost": "Biaya overhead"
+    }
+}

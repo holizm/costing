@@ -1,0 +1,15 @@
+{
+    "common": {
+        "totalCost": "Koszt całkowity",
+        "unitCost": "Koszt jednostkowy",
+        "componentType": "Typ składnika kosztu",
+        "costComponent": "Składnik kosztu",
+        "costComponents": "Składniki kosztu",
+        "costSheet": "Arkusz kalkulacji kosztów",
+        "costSheets": "Arkusze kalkulacji kosztów",
+        "costing": "Kalkulacja kosztów",
+        "directCost": "Koszt bezpośredni",
+        "effectiveDate": "Data wejścia w życie",
+        "overheadCost": "Koszt pośredni"
+    }
+}
