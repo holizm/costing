@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "ጠቅላላ ወጪ",
-        "unitCost": "የአንድ ክፍል ወጪ",
-        "componentType": "የወጪ ክፍል ዓይነት",
         "costComponent": "የወጪ ክፍል",
         "costComponents": "የወጪ ክፍሎች",
         "costSheet": "የወጪ ሰንጠረዥ",
         "costSheets": "የወጪ ሰንጠረዦች",
-        "costing": "ወጪ ስሌት",
-        "directCost": "ቀጥተኛ ወጪ",
-        "effectiveDate": "ተፈጻሚ የሚሆንበት ቀን",
-        "overheadCost": "ተዘዋዋሪ ወጪ"
+        "costing": "ወጪ ስሌት"
     }
 }

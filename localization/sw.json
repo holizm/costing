@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Jumla ya gharama",
-        "unitCost": "Gharama kwa kila kipimo",
-        "componentType": "Aina ya kipengele cha gharama",
         "costComponent": "Kipengele cha gharama",
         "costComponents": "Vipengele vya gharama",
         "costSheet": "Jedwali la gharama",
         "costSheets": "Majedwali ya gharama",
-        "costing": "Ukokotoaji wa gharama",
-        "directCost": "Gharama ya moja kwa moja",
-        "effectiveDate": "Tarehe ya kuanza kutumika",
-        "overheadCost": "Gharama isiyo ya moja kwa moja"
+        "costing": "Ukokotoaji wa gharama"
     }
 }

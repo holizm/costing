@@ -24,7 +24,7 @@ const inputs = <>
             'service',
             'other',
         ]}
-        placeholder='costingComponentType'
+        placeholder='coreComponentType'
         property='costComponentType'
         required
     />
@@ -34,12 +34,12 @@ const inputs = <>
         required
     />
     <Numeric
-        placeholder='costingUnitCost'
+        placeholder='coreUnitCost'
         property='unitCost'
         required
     />
     <Numeric
-        placeholder='costingTotalCost'
+        placeholder='coreTotalCost'
         property='totalCost'
         required
     />

@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "총원가",
-        "unitCost": "단위원가",
-        "componentType": "원가 구성 요소 유형",
         "costComponent": "원가 구성 요소",
         "costComponents": "원가 구성 요소",
         "costSheet": "원가 계산서",
         "costSheets": "원가 계산서",
-        "costing": "원가 계산",
-        "directCost": "직접비",
-        "effectiveDate": "적용일",
-        "overheadCost": "간접비"
+        "costing": "원가 계산"
     }
 }

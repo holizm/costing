@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "هزینه کل",
-        "unitCost": "هزینه واحد",
-        "componentType": "نوع مؤلفه",
         "costComponent": "مؤلفه هزینه",
         "costComponents": "مؤلفه‌های هزینه",
         "costSheet": "برگه بهای تمام‌شده",
         "costSheets": "برگه‌های بهای تمام‌شده",
-        "costing": "محاسبه هزینه",
-        "directCost": "هزینه مستقیم",
-        "effectiveDate": "تاریخ اجرا",
-        "overheadCost": "هزینه سربار"
+        "costing": "محاسبه هزینه"
     }
 }

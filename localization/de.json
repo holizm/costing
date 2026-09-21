@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Gesamtkosten",
-        "unitCost": "Stückkosten",
-        "componentType": "Kostenkomponententyp",
         "costComponent": "Kostenkomponente",
         "costComponents": "Kostenkomponenten",
         "costSheet": "Kalkulationsblatt",
         "costSheets": "Kalkulationsblätter",
-        "costing": "Kostenkalkulation",
-        "directCost": "Direkte Kosten",
-        "effectiveDate": "Gültigkeitsdatum",
-        "overheadCost": "Gemeinkosten"
+        "costing": "Kostenkalkulation"
     }
 }

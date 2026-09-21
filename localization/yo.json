@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Àpapọ̀ iye owó",
-        "unitCost": "Iye owó ẹyọ kan",
-        "componentType": "Irú apá iye owó",
         "costComponent": "Apá iye owó",
         "costComponents": "Àwọn apá iye owó",
         "costSheet": "Ìwé ìṣirò iye owó",
         "costSheets": "Àwọn ìwé ìṣirò iye owó",
-        "costing": "Ìṣirò iye owó",
-        "directCost": "Iye owó tààrà",
-        "effectiveDate": "Ọjọ́ ìbẹ̀rẹ̀ lílò",
-        "overheadCost": "Iye owó àfikún iṣẹ́"
+        "costing": "Ìṣirò iye owó"
     }
 }

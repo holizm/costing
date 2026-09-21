@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Συνολικό κόστος",
-        "unitCost": "Κόστος μονάδας",
-        "componentType": "Τύπος στοιχείου κόστους",
         "costComponent": "Στοιχείο κόστους",
         "costComponents": "Στοιχεία κόστους",
         "costSheet": "Φύλλο κοστολόγησης",
         "costSheets": "Φύλλα κοστολόγησης",
-        "costing": "Κοστολόγηση",
-        "directCost": "Άμεσο κόστος",
-        "effectiveDate": "Ημερομηνία έναρξης ισχύος",
-        "overheadCost": "Γενικά έξοδα"
+        "costing": "Κοστολόγηση"
     }
 }

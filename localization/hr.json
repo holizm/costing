@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Ukupni trošak",
-        "unitCost": "Jedinični trošak",
-        "componentType": "Vrsta troškovne komponente",
         "costComponent": "Troškovna komponenta",
         "costComponents": "Troškovne komponente",
         "costSheet": "Kalkulacijski list",
         "costSheets": "Kalkulacijski listovi",
-        "costing": "Kalkulacija troškova",
-        "directCost": "Izravni trošak",
-        "effectiveDate": "Datum stupanja na snagu",
-        "overheadCost": "Režijski trošak"
+        "costing": "Kalkulacija troškova"
     }
 }

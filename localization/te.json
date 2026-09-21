@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "మొత్తం వ్యయం",
-        "unitCost": "యూనిట్ వ్యయం",
-        "componentType": "వ్యయ భాగం రకం",
         "costComponent": "వ్యయ భాగం",
         "costComponents": "వ్యయ భాగాలు",
         "costSheet": "వ్యయ పట్టిక",
         "costSheets": "వ్యయ పట్టికలు",
-        "costing": "వ్యయ గణన",
-        "directCost": "ప్రత్యక్ష వ్యయం",
-        "effectiveDate": "అమలులోకి వచ్చే తేదీ",
-        "overheadCost": "పరోక్ష వ్యయం"
+        "costing": "వ్యయ గణన"
     }
 }

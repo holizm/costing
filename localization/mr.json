@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "एकूण खर्च",
-        "unitCost": "प्रति युनिट खर्च",
-        "componentType": "खर्च घटकाचा प्रकार",
         "costComponent": "खर्च घटक",
         "costComponents": "खर्च घटक",
         "costSheet": "खर्च पत्रक",
         "costSheets": "खर्च पत्रके",
-        "costing": "खर्च गणना",
-        "directCost": "प्रत्यक्ष खर्च",
-        "effectiveDate": "अंमलबजावणीची तारीख",
-        "overheadCost": "अप्रत्यक्ष खर्च"
+        "costing": "खर्च गणना"
     }
 }

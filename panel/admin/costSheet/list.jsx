@@ -8,9 +8,9 @@ import Form from './form'
 const headers = <>
     <th start>costingCostSheet</th>
     <th>costingItem</th>
-    <th>costingTotalCost</th>
-    <th>costingUnitCost</th>
-    <th>costingEffectiveDate</th>
+    <th>coreTotalCost</th>
+    <th>coreUnitCost</th>
+    <th>coreEffectiveDate</th>
 </>
 
 const row = item => <>

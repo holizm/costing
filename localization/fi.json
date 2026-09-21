@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Kokonaiskustannus",
-        "unitCost": "Yksikkökustannus",
-        "componentType": "Kustannuserän tyyppi",
         "costComponent": "Kustannuserä",
         "costComponents": "Kustannuserät",
         "costSheet": "Kustannuslaskelma",
         "costSheets": "Kustannuslaskelmat",
-        "costing": "Kustannuslaskenta",
-        "directCost": "Välitön kustannus",
-        "effectiveDate": "Voimaantulopäivä",
-        "overheadCost": "Yleiskustannus"
+        "costing": "Kustannuslaskenta"
     }
 }

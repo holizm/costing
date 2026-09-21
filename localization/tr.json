@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Toplam maliyet",
-        "unitCost": "Birim maliyet",
-        "componentType": "Maliyet bileşeni türü",
         "costComponent": "Maliyet bileşeni",
         "costComponents": "Maliyet bileşenleri",
         "costSheet": "Maliyet cetveli",
         "costSheets": "Maliyet cetvelleri",
-        "costing": "Maliyet hesaplama",
-        "directCost": "Doğrudan maliyet",
-        "effectiveDate": "Yürürlük tarihi",
-        "overheadCost": "Genel gider"
+        "costing": "Maliyet hesaplama"
     }
 }

@@ -6,10 +6,10 @@ import Form from './form'
 
 const headers = <>
     <th start>costingCostComponent</th>
-    <th>costingComponentType</th>
+    <th>coreComponentType</th>
     <th>costingQuantity</th>
-    <th>costingUnitCost</th>
-    <th>costingTotalCost</th>
+    <th>coreUnitCost</th>
+    <th>coreTotalCost</th>
 </>
 
 const row = item => <>

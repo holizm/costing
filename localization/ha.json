@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Jimillar kuɗi",
-        "unitCost": "Kuɗin kowace raka’a",
-        "componentType": "Nau’in ɓangaren kuɗi",
         "costComponent": "Ɓangaren kuɗi",
         "costComponents": "Sassan kuɗi",
         "costSheet": "Takardar lissafin kuɗi",
         "costSheets": "Takardun lissafin kuɗi",
-        "costing": "Lissafin kuɗi",
-        "directCost": "Kuɗin kai tsaye",
-        "effectiveDate": "Ranar fara aiki",
-        "overheadCost": "Kuɗin gudanarwa"
+        "costing": "Lissafin kuɗi"
     }
 }

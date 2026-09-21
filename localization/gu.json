@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "કુલ ખર્ચ",
-        "unitCost": "એકમ ખર્ચ",
-        "componentType": "ખર્ચ ઘટકનો પ્રકાર",
         "costComponent": "ખર્ચ ઘટક",
         "costComponents": "ખર્ચ ઘટકો",
         "costSheet": "ખર્ચ પત્રક",
         "costSheets": "ખર્ચ પત્રકો",
-        "costing": "ખર્ચ ગણતરી",
-        "directCost": "સીધો ખર્ચ",
-        "effectiveDate": "અમલી તારીખ",
-        "overheadCost": "પરોક્ષ ખર્ચ"
+        "costing": "ખર્ચ ગણતરી"
     }
 }

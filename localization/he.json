@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "עלות כוללת",
-        "unitCost": "עלות ליחידה",
-        "componentType": "סוג רכיב עלות",
         "costComponent": "רכיב עלות",
         "costComponents": "רכיבי עלות",
         "costSheet": "גיליון תמחיר",
         "costSheets": "גיליונות תמחיר",
-        "costing": "תמחיר",
-        "directCost": "עלות ישירה",
-        "effectiveDate": "תאריך תחילה",
-        "overheadCost": "עלות תקורה"
+        "costing": "תמחיר"
     }
 }

@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "総原価",
-        "unitCost": "単位原価",
-        "componentType": "原価構成要素の種類",
         "costComponent": "原価構成要素",
         "costComponents": "原価構成要素",
         "costSheet": "原価計算表",
         "costSheets": "原価計算表",
-        "costing": "原価計算",
-        "directCost": "直接費",
-        "effectiveDate": "適用日",
-        "overheadCost": "間接費"
+        "costing": "原価計算"
     }
 }

@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Celkové náklady",
-        "unitCost": "Jednotkové náklady",
-        "componentType": "Typ nákladové složky",
         "costComponent": "Nákladová složka",
         "costComponents": "Nákladové složky",
         "costSheet": "Kalkulační list",
         "costSheets": "Kalkulační listy",
-        "costing": "Kalkulace nákladů",
-        "directCost": "Přímé náklady",
-        "effectiveDate": "Datum účinnosti",
-        "overheadCost": "Režijní náklady"
+        "costing": "Kalkulace nákladů"
     }
 }

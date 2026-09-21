@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Total cost",
-        "unitCost": "Unit cost",
-        "componentType": "Component type",
         "costComponent": "Cost component",
         "costComponents": "Cost components",
         "costSheet": "Cost sheet",
         "costSheets": "Cost sheets",
-        "costing": "Costing",
-        "directCost": "Direct cost",
-        "effectiveDate": "Effective date",
-        "overheadCost": "Overhead cost"
+        "costing": "Costing"
     }
 }

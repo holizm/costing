@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Total kostnad",
-        "unitCost": "Enhetskostnad",
-        "componentType": "Typ av kostnadskomponent",
         "costComponent": "Kostnadskomponent",
         "costComponents": "Kostnadskomponenter",
         "costSheet": "Kostnadskalkyl",
         "costSheets": "Kostnadskalkyler",
-        "costing": "Kostnadsberäkning",
-        "directCost": "Direkt kostnad",
-        "effectiveDate": "Ikraftträdandedatum",
-        "overheadCost": "Indirekt kostnad"
+        "costing": "Kostnadsberäkning"
     }
 }

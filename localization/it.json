@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "Costo totale",
-        "unitCost": "Costo unitario",
-        "componentType": "Tipo di componente di costo",
         "costComponent": "Componente di costo",
         "costComponents": "Componenti di costo",
         "costSheet": "Scheda costi",
         "costSheets": "Schede costi",
-        "costing": "Calcolo dei costi",
-        "directCost": "Costo diretto",
-        "effectiveDate": "Data di decorrenza",
-        "overheadCost": "Costo indiretto"
+        "costing": "Calcolo dei costi"
     }
 }

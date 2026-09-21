@@ -20,21 +20,21 @@ const inputs = <>
         required
     />
     <Numeric
-        placeholder='costingDirectCost'
+        placeholder='coreDirectCost'
         property='directCost'
         required
     />
     <Numeric
-        placeholder='costingOverheadCost'
+        placeholder='coreOverheadCost'
         property='overheadCost'
     />
     <Numeric
-        placeholder='costingTotalCost'
+        placeholder='coreTotalCost'
         property='totalCost'
         required
     />
     <Numeric
-        placeholder='costingUnitCost'
+        placeholder='coreUnitCost'
         property='unitCost'
         required
     />
@@ -44,7 +44,7 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='costingEffectiveDate'
+        placeholder='coreEffectiveDate'
         property='effectiveDate'
         required
     />

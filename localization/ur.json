@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "کل لاگت",
-        "unitCost": "فی اکائی لاگت",
-        "componentType": "لاگت کے جزو کی قسم",
         "costComponent": "لاگت کا جزو",
         "costComponents": "لاگت کے اجزا",
         "costSheet": "لاگت کی شیٹ",
         "costSheets": "لاگت کی شیٹس",
-        "costing": "لاگت کا حساب",
-        "directCost": "براہ راست لاگت",
-        "effectiveDate": "نفاذ کی تاریخ",
-        "overheadCost": "بالواسطہ لاگت"
+        "costing": "لاگت کا حساب"
     }
 }

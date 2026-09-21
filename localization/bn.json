@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "মোট খরচ",
-        "unitCost": "একক খরচ",
-        "componentType": "খরচের উপাদানের ধরন",
         "costComponent": "খরচের উপাদান",
         "costComponents": "খরচের উপাদানসমূহ",
         "costSheet": "খরচপত্র",
         "costSheets": "খরচপত্রসমূহ",
-        "costing": "খরচ নিরূপণ",
-        "directCost": "প্রত্যক্ষ খরচ",
-        "effectiveDate": "কার্যকর তারিখ",
-        "overheadCost": "পরোক্ষ খরচ"
+        "costing": "খরচ নিরূপণ"
     }
 }

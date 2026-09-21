@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "التكلفة الإجمالية",
-        "unitCost": "تكلفة الوحدة",
-        "componentType": "نوع مكوّن التكلفة",
         "costComponent": "مكوّن التكلفة",
         "costComponents": "مكوّنات التكلفة",
         "costSheet": "ورقة التكلفة",
         "costSheets": "أوراق التكلفة",
-        "costing": "حساب التكاليف",
-        "directCost": "التكلفة المباشرة",
-        "effectiveDate": "تاريخ السريان",
-        "overheadCost": "التكلفة العامة"
+        "costing": "حساب التكاليف"
     }
 }

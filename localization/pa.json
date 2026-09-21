@@ -1,15 +1,9 @@
 {
     "common": {
-        "totalCost": "ਕੁੱਲ ਲਾਗਤ",
-        "unitCost": "ਪ੍ਰਤੀ ਇਕਾਈ ਲਾਗਤ",
-        "componentType": "ਲਾਗਤ ਹਿੱਸੇ ਦੀ ਕਿਸਮ",
         "costComponent": "ਲਾਗਤ ਹਿੱਸਾ",
         "costComponents": "ਲਾਗਤ ਹਿੱਸੇ",
         "costSheet": "ਲਾਗਤ ਪੱਤਰ",
         "costSheets": "ਲਾਗਤ ਪੱਤਰ",
-        "costing": "ਲਾਗਤ ਗਣਨਾ",
-        "directCost": "ਸਿੱਧੀ ਲਾਗਤ",
-        "effectiveDate": "ਲਾਗੂ ਹੋਣ ਦੀ ਮਿਤੀ",
-        "overheadCost": "ਅਸਿੱਧੀ ਲਾਗਤ"
+        "costing": "ਲਾਗਤ ਗਣਨਾ"
     }
 }
