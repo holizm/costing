@@ -10,48 +10,35 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='item'
-        property='item'
+        item
         required
     />
     <Numeric
-        placeholder='quantity'
-        property='quantity'
+        quantity
         required
     />
     <Numeric
-        placeholder='directCost'
-        property='directCost'
+        directCost
         required
     />
+    <Numeric overheadCost />
     <Numeric
-        placeholder='overheadCost'
-        property='overheadCost'
+        required
+        totalCost
     />
     <Numeric
-        placeholder='totalCost'
-        property='totalCost'
         required
-    />
-    <Numeric
-        placeholder='unitCost'
-        property='unitCost'
-        required
+        unitCost
     />
     <Text
-        placeholder='currency'
-        property='currency'
+        currency
         required
     />
     <DateTime
-        placeholder='effectiveDate'
-        property='effectiveDate'
+        effectiveDate
         required
     />
-    <Boolean
-        placeholder='current'
-        property='current'
-    />
+    <Boolean current />
 </>
 
 export default <DialogForm inputs={inputs} />

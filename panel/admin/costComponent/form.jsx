@@ -9,12 +9,12 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='costSheet'
-        property='costSheet'
+        costSheet
         required
     />
     <Title />
     <Select
+        costComponentType
         options={[
             'material',
             'labor',
@@ -25,28 +25,21 @@ const inputs = <>
             'other',
         ]}
         placeholder='componentType'
-        property='costComponentType'
         required
     />
     <Numeric
-        placeholder='quantity'
-        property='quantity'
+        quantity
         required
     />
     <Numeric
-        placeholder='unitCost'
-        property='unitCost'
         required
+        unitCost
     />
     <Numeric
-        placeholder='totalCost'
-        property='totalCost'
         required
+        totalCost
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
