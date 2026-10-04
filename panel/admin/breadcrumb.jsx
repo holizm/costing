@@ -3,6 +3,6 @@ import PartBreadcrumb from 'partBreadcrumb'
 export default props => <PartBreadcrumb
     icon='calculate'
     name='costing'
-    title='costingCosting'
+    title='costing'
     {...props}
 />

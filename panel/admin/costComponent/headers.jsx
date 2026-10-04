@@ -1,7 +1,7 @@
 export default <>
-    <th start>costingCostComponent</th>
-    <th>coreComponentType</th>
-    <th>costingQuantity</th>
-    <th>coreUnitCost</th>
-    <th>coreTotalCost</th>
+    <th start>costComponent</th>
+    <th>componentType</th>
+    <th>quantity</th>
+    <th>unitCost</th>
+    <th>totalCost</th>
 </>

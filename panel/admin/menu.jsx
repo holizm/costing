@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/costing/costSheet/list',
-                title: 'costingCostSheets',
+                title: 'costSheets',
             },
             {
                 path: '/costing/costComponent/list',
-                title: 'costingCostComponents',
+                title: 'costComponents',
             },
         ],
         icon: 'calculate',
         path: '/costing',
-        title: 'costingCosting',
+        title: 'costing',
     },
 ]

@@ -10,46 +10,46 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='costingItem'
+        placeholder='item'
         property='item'
         required
     />
     <Numeric
-        placeholder='costingQuantity'
+        placeholder='quantity'
         property='quantity'
         required
     />
     <Numeric
-        placeholder='coreDirectCost'
+        placeholder='directCost'
         property='directCost'
         required
     />
     <Numeric
-        placeholder='coreOverheadCost'
+        placeholder='overheadCost'
         property='overheadCost'
     />
     <Numeric
-        placeholder='coreTotalCost'
+        placeholder='totalCost'
         property='totalCost'
         required
     />
     <Numeric
-        placeholder='coreUnitCost'
+        placeholder='unitCost'
         property='unitCost'
         required
     />
     <Text
-        placeholder='costingCurrency'
+        placeholder='currency'
         property='currency'
         required
     />
     <DateTime
-        placeholder='coreEffectiveDate'
+        placeholder='effectiveDate'
         property='effectiveDate'
         required
     />
     <Boolean
-        placeholder='costingCurrent'
+        placeholder='current'
         property='current'
     />
 </>

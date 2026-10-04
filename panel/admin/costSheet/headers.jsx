@@ -1,7 +1,7 @@
 export default <>
-    <th start>costingCostSheet</th>
-    <th>costingItem</th>
-    <th>coreTotalCost</th>
-    <th>coreUnitCost</th>
-    <th>coreEffectiveDate</th>
+    <th start>costSheet</th>
+    <th>item</th>
+    <th>totalCost</th>
+    <th>unitCost</th>
+    <th>effectiveDate</th>
 </>

@@ -9,7 +9,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='costingCostSheet'
+        placeholder='costSheet'
         property='costSheet'
         required
     />
@@ -24,27 +24,27 @@ const inputs = <>
             'service',
             'other',
         ]}
-        placeholder='coreComponentType'
+        placeholder='componentType'
         property='costComponentType'
         required
     />
     <Numeric
-        placeholder='costingQuantity'
+        placeholder='quantity'
         property='quantity'
         required
     />
     <Numeric
-        placeholder='coreUnitCost'
+        placeholder='unitCost'
         property='unitCost'
         required
     />
     <Numeric
-        placeholder='coreTotalCost'
+        placeholder='totalCost'
         property='totalCost'
         required
     />
     <LongText
-        placeholder='costingDescription'
+        placeholder='description'
         property='description'
     />
 </>
